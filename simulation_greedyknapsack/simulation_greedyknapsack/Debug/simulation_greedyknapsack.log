@@ -1,0 +1,46 @@
+﻿  MainProject.cpp
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(62): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(111): warning C4018: '<': signed/unsigned mismatch
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(172): warning C4018: '<': signed/unsigned mismatch
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(192): warning C4018: '<': signed/unsigned mismatch
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(196): warning C4018: '<': signed/unsigned mismatch
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(203): warning C4018: '<': signed/unsigned mismatch
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(213): warning C4018: '<': signed/unsigned mismatch
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(237): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(247): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(255): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(270): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1795): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1797): warning C4018: '<': signed/unsigned mismatch
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1800): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1809): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1810): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1814): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1816): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1819): warning C4018: '<': signed/unsigned mismatch
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1822): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1835): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1836): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1840): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1843): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1846): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1850): warning C4018: '<': signed/unsigned mismatch
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1854): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1860): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1863): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1866): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1869): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1872): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1875): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1878): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1882): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1884): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1888): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1890): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1896): warning C4018: '<': signed/unsigned mismatch
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1898): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1903): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1905): warning C4018: '<': signed/unsigned mismatch
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1907): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\yashvanth pai\source\repos\simulation_greedyknapsack\project3\mainproject.cpp(1911): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  simulation_greedyknapsack.vcxproj -> D:\simulation_greedyknapsack\Debug\simulation_greedyknapsack.exe
